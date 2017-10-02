@@ -2,12 +2,12 @@ _This repository tries to assemble lists of useful digital resources for governm
 
 # Design 
 
-## Design Standards
+### Design Standards
 
 * [US Web Design Standards](https://standards.usa.gov/)
 
 
-## Fonts
+### Fonts
 
 * [18Franklin](https://github.com/18F/18franklin)
 
