@@ -3,7 +3,7 @@ _Feel free to [edit this page](https://github.com/digitalgov/resources/edit/mast
 |  Name |  Agency | Specialty  | Email (optional)  | 
 |---|---|---|---|
 |  Gray Brooks | GSA  |  Open Source, APIs, Open Data | gray.brooks@gsa.gov  |  
-|   |   |   |   |
+|  Jeremy Zilar | GSA  | Design, workflows, systems | jeremy.zilar@gsa.gov  |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
