@@ -28,6 +28,7 @@ _This repository tries to assemble lists of useful digital resources for governm
 
 * [Federalist](https://federalist.18f.gov/)
 * [Cloud.gov](https://cloud.gov/)
+* [USG Website Templates (GitHub Pages)](http://usg-website-templates.github.io/)
 
 ## Site Search 
 
